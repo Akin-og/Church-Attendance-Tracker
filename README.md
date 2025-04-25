@@ -30,3 +30,31 @@ A modern, responsive web application to manage and track church member attendanc
    ```bash
    git clone https://github.com/Akin-og/Church-Attendance-Tracker.git
    cd church-attendance-tracker
+
+  2. Install dependencies:
+npm install
+
+  3. Create a .env file in the root with your Supabase credentials:
+
+  VITE_SUPABASE_URL=your-supabase-url
+
+  VITE_SUPABASE_ANON_KEY=your-supabase-anon-key
+
+  4. Run the app locally:
+
+  npm run dev
+
+  5. Build for production:
+
+  npm run build
+
+<h2> 🖼️ Screenshots </h2>
+
+Login Page	Dashboard	Attendance Page
+📊 Insights Page
+Displays weekly attendance with Present, Absent, and Communion data.
+
+✨ Live Demo
+https://tacnw.netlify.app
+
+
