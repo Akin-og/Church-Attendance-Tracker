@@ -50,9 +50,22 @@ npm install
 
 <h2> 🖼️ Screenshots </h2>
 
-Login Page	Dashboard	Attendance Page
-📊 Insights Page
-Displays weekly attendance with Present, Absent, and Communion data.
+  Login Page	  
+![image](https://github.com/user-attachments/assets/5337707a-3324-4a0e-a46c-2655399b6304)
+
+  Dashboard	
+  ![image](https://github.com/user-attachments/assets/a20e0030-ccbe-4a70-aa1b-83feb051057e)
+
+  Attendance Page
+  ![image](https://github.com/user-attachments/assets/7121843e-5d08-4ad0-a2d3-e208f89584b1)
+
+  📊 Insights Page  
+![image](https://github.com/user-attachments/assets/fe6e101c-2101-4765-8c12-2213bf2f3d9a)
+
+  Add Member Page
+  ![image](https://github.com/user-attachments/assets/be9a50f0-a13a-45e3-b430-5e57d0a241d5)
+
+
 
 ✨ Live Demo
 https://tacnw.netlify.app
